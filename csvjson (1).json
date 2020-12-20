@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstName": 111,
+    "lastName": 1111,
+    "pic": "1.jpg",
+    "managerId": 0,
+    "title": "President and CEO",
+    "department": "Corporate",
+    "officePhone": "617-000-0001",
+    "cellPhone": "781-000-0001",
+    "email": "jking@fakemail.com",
+    "city": "Boston, MA",
+    "picture": "1.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": 222,
+    "lastName": 2222,
+    "pic": "2.jpg",
+    "managerId": 1,
+    "title": "VP of Marketing",
+    "department": "Marketing",
+    "officePhone": "617-000-0002",
+    "cellPhone": "781-000-0002",
+    "email": "jtaylor@fakemail.com",
+    "city": "Boston, MA",
+    "picture": "2.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": 333,
+    "lastName": 3333,
+    "pic": "3.jpg",
+    "managerId": 1,
+    "title": "CFO",
+    "department": "Accounting",
+    "officePhone": "617-000-0003",
+    "cellPhone": "781-000-0003",
+    "email": "elee@fakemail.com",
+    "city": "Boston, MA",
+    "picture": "3.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": 444,
+    "lastName": 4444,
+    "pic": "4.jpg",
+    "managerId": 1,
+    "title": "VP of Engineering",
+    "department": "Engineering",
+    "officePhone": "617-000-0004",
+    "cellPhone": "781-000-0004",
+    "email": "jwilliams@fakemail.com",
+    "city": "Boston, MA",
+    "picture": "4.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": 555,
+    "lastName": 5555,
+    "pic": "5.jpg",
+    "managerId": 1,
+    "title": "VP of Sales",
+    "department": "Sales",
+    "officePhone": "617-000-0005",
+    "cellPhone": "781-000-0005",
+    "email": "rmoore@fakemail.com",
+    "city": "Boston, MA",
+    "picture": "5.jpg"
+  }
+]
